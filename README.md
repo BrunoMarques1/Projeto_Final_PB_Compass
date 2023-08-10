@@ -9,9 +9,12 @@ Realizar a construção e implementação do ambiente de servidores da empresa "
 - Persistência dos Dados: Utilizar o EBS (Elastic Block Store) para fornecer armazenamento persistente aos contêineres e garantir que os dados estejam seguros mesmo após a reinicialização das instâncias.
 - Balanceamento de carga com healthcheck: Implementar o Amazon Elastic Load Balancing (ELB) para distribuir o tráfego de entrada entre as instâncias do contêiner, realizando healthchecks para verificar a disponibilidade dos serviços.
 - Segurança: Configurar grupos de segurança da AWS para restringir o acesso apenas aos serviços e portas necessários, garantindo a segurança do ambiente. Além dos grupos de segurança, o IAM também será configurado para gerenciar as permissões e acesso aos recursos da AWS. Serão criados grupos de usuários e políticas de acesso que permitem apenas o mínimo necessário para cada serviço e função na empresa.
+- Resolução de Nomes e DNS (Amazon Route 53): Utilizar o Amazon Route 53 para gerenciar o DNS da empresa. Isso inclui a resolução de nomes de domínio, a criação de registros DNS, a configuração de zonas hospedadas e a rota de tráfego de entrada para os serviços hospedados na AWS, garantindo alta disponibilidade e latência mínima.
+
 <div align="center">
   
-![image](https://github.com/BrunoMarques1/Projeto_Final_PB_Compass/assets/127341401/30c72f10-1a8c-4df2-be24-d8943eda8568)
+![image](https://github.com/BrunoMarques1/Projeto_Final_PB_Compass/assets/127341401/4e1a5c27-b343-4477-9435-bbef8ef08d17)
+
 
 </div>
 
