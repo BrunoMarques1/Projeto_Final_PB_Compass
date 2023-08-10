@@ -16,7 +16,7 @@ Realizar a construção e implementação do ambiente de servidores da empresa "
 </div>
 
 ### Valores:
-A estimativa mensal de gastos dessa arquitetura ficou em torno de 547.45 USD, enquanto a anual ficou em 6,569.40 USD.
+A estimativa mensal de gastos dessa arquitetura ficou em torno de 755.00 USD, enquanto a anual ficou em 9,070.00 USD (Lembrando que os valores podem variar dependendo da carga e demanda).
 
 ### Prazo de entrega:
 Para a realização e implementação integral dos serviços oferecidos pela empresa Fast Engineering S/A, estima-se que seja necessário um período aproximado de duas semanas.
